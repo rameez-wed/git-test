@@ -9,3 +9,7 @@ function test2() {
 function featureBranch2() {
 	console.log('feature branch');
 }
+
+function newFeature() {
+	console.log('new feature');
+}

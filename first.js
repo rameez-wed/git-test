@@ -13,3 +13,7 @@ function featureBranch2() {
 function conflictFunction() {
 	console.log('conflict function');
 }
+
+function addNewMember() {
+	console.log('ishan');
+}

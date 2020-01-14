@@ -15,5 +15,3 @@ function conflictFunction() {
 }
 
 console.log("Pranav Kumar Mishra");
-
-console.log("Ishan");
